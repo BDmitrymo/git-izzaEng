@@ -1,1 +1,1 @@
-вапчапар
+print("hello ukfugghjlk.");
